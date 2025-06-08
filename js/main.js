@@ -311,7 +311,7 @@
         }
         if (!valid) return;
         // Enviar a WhatsApp
-        var waNumber = '529932171855'; // Cambia este número al tuyo (con código de país, sin + ni espacios)
+        var waNumber = '529931332189'; // Cambia este número al tuyo (con código de país, sin + ni espacios)
         var pais = $('#order-pais').val();
         var nombrePais = $('#order-pais option:selected').text();
         var carrito = getCartWithPrices();
